@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saleh Ebrahim AlDandn  
-- 👀 I’m interested in .Net , SQL , AZURE , DevOps , Microservices , Algorithms , Data Structures and Docker .
+- 👀 I’m interested in .Net , SQL , Docker , K8s , AZURE , DevOps , Microservices , Algorithms and Data Structures.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sd.dndn@gmail.com
